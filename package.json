@@ -1,0 +1,19 @@
+{
+  "name": "bumpbot",
+  "version": "1.0.0",
+  "description": "ja",
+  "main": "bot.js",
+  "scripts": {
+    "test": "woelah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJustDond/bumpbot.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsJustDond/bumpbot/issues"
+  },
+  "homepage": "https://github.com/ItsJustDond/bumpbot#readme"
+}
