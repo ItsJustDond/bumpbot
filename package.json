@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ItsJustDond/bumpbot/issues"
   },
-  "homepage": "https://github.com/ItsJustDond/bumpbot#readme"
+  "homepage": "https://github.com/ItsJustDond/bumpbot#readme",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2"
+  }
 }
