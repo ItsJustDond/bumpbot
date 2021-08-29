@@ -17,7 +17,11 @@ let BotVersion = "Test Bot";
 client.on('ready', () => {
     //client.channels.cache.get(`630995793670701065`).send(`Ready...`)
     console.log(`Logged in as ${client.user.tag}!`);
-    //	client.channels.cache.get(`630995793670701065`).send(`Logged in as ${client.user.tag}!`)
+    client.channels.cache.get(`879324054371311706`).send(`!d bump`)
+    setInterval(function(){
+        client.channels.cache.get(`879324054371311706`).send(`!d bump`)
+    }, 7200050);
+
     client.user.setActivity(">=help | " + BotVersion);
 });
 
